@@ -27,9 +27,9 @@ The target variable had two values which are 0 for healthy loans and 1 for high-
 * Describe the stages of the machine learning process you went through as part of this analysis.
 
 While preparing the analysis I followed the following steps:
-1. Data Preparation: Dropped some of the columns, split the data into features (x) and labels (y) and then scaling the data using standard scaler.
-2. Model Training: Trained the model.
-3. Model Evaluation. assessed the model performance for `accuracy`, `recall` and `F1-score.`
+1. **Data Preparation:** Split the data into features (x) and labels (y) and then scaling the data using standard scaler.
+2. **Model Training:** Trained the model.
+3. **Model Evaluation:** Assessed the model performance for `accuracy`, `recall` and `F1-score.`
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any other algorithms).
 
